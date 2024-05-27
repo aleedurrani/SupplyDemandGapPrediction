@@ -80,8 +80,8 @@ To use the code in this repository:
 
 ### Clone the repository:
 
-- git clone https://github.com/aleedurrani/SupplyDemandGapPrediction/
-- cd https://github.com/aleedurrani/SupplyDemandGapPrediction/
+- git clone https://github.com/aleedurrani/SupplyDemandGapPrediction.git
+- cd SupplyDemandGapPrediction
 
 Run the Jupyter notebook in Google Collab or Jupyter to see the data processing, model training, and prediction steps.
 
